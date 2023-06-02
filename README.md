@@ -4,7 +4,6 @@ This repository is for my aperture photometry projects.
 
 
 The files with TEST in the name are unorganized notebooks that 
-
 contain my initial attempts at performing aperture photometry with Photutils.
 
 
