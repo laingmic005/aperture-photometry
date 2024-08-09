@@ -9,3 +9,5 @@ contain my initial attempts at performing aperture photometry with Photutils.
 
 
 The files whose names begin with L# (for example, "L2_photutils-detection.ipynb") correspond to my YouTube Astropy tutorials.
+
+https://youtube.com/@mic_n_ike?si=OjpUhrVAb509LHti
